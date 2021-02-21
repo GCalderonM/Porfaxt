@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_zip"
+            android:icon="@drawable/zipicon"
+            android:title="@string/menu_zip" />
+        <item
+            android:id="@+id/nav_pdf"
+            android:icon="@drawable/ic_pdf"
+            android:title="@string/menu_pdf" />
+        <item
+            android:id="@+id/nav_xml"
+            android:icon="@drawable/xmlicon"
+            android:title="@string/menu_xml" />
+        <item
+            android:id="@+id/nav_fileDownload"
+            android:icon="@drawable/ic_baseline_cloud_download_24"
+            android:title="@string/menu_fileDownload" />
+    </group>
+</menu>

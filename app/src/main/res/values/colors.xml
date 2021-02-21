@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#786fa6</color>
+    <color name="colorPrimaryDark">#574b90</color>
+    <color name="colorAccent">#f78fb3</color>
+    <color name="creamyPeach">#f3a683</color>
+    <color name="sawtoothAAK">#f19066</color>
+    <color name="lynxWhite">#f5f6fa</color>
+    <color name="black">#000000</color>
+    <color name="amtheyst">#9b59b6</color>
+    <color name="asphalt">#34495e</color>
+    <color name="pomegranate">#c0392b</color>
+    <color name="nephritis">#27ae60</color>
+</resources>

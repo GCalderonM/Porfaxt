@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PorfaxtFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_desc">Compresion, descompresion, y conversión de archivos!</string>
+    <string name="action_settings">Desconectar</string>
+
+    <!-- Buttons -->
+    <string name="btnAgregaFich">Agregar fichero</string>
+
+    <!-- Menu names -->
+    <string name="menu_zip">ZIP</string>
+    <string name="menu_pdf">PDF</string>
+    <string name="menu_xml">XML</string>
+    <string name="menu_fileDownload">Descargar ficheros</string>
+</resources>

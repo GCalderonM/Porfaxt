@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669005579761",
+    "project_id": "porfaxt-final",
+    "storage_bucket": "porfaxt-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669005579761:android:10ec49f35afb2e574d3050",
+        "android_client_info": {
+          "package_name": "me.guillermocalderon.porfaxtfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669005579761-c3oq26scub03593795aqv0tnn33h6cea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.guillermocalderon.porfaxtfinal",
+            "certificate_hash": "d98c5cf002aa9b140617d303c2c76e01de9be438"
+          }
+        },
+        {
+          "client_id": "669005579761-i304ppbec0lca36drtl9c9llhouls2kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2gcrzRSJjtjugQi2_v4NZGNWI3GCAa2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669005579761-i304ppbec0lca36drtl9c9llhouls2kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

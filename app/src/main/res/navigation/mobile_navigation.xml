@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_zip">
+
+    <fragment
+        android:id="@+id/nav_zip"
+        android:name="me.guillermocalderon.porfaxtfinal.ui.zip.ZIPFragment"
+        android:label="@string/menu_zip"
+        tools:layout="@layout/fragment_zip" />
+
+    <fragment
+        android:id="@+id/nav_pdf"
+        android:name="me.guillermocalderon.porfaxtfinal.ui.pdf.PDFFragment"
+        android:label="@string/menu_pdf"
+        tools:layout="@layout/fragment_PDF" />
+
+    <fragment
+        android:id="@+id/nav_xml"
+        android:name="me.guillermocalderon.porfaxtfinal.ui.xml.XMLFragment"
+        android:label="@string/menu_xml"
+        tools:layout="@layout/fragment_xml" />
+    <fragment
+        android:id="@+id/nav_fileDownload"
+        android:name="me.guillermocalderon.porfaxtfinal.ui.filesDownload.FileDownloadFragment"
+        android:label="@string/menu_fileDownload" />
+</navigation>
