@@ -1,2 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">PorfaxtFinal</string>
+    <string name="navigation_drawer_open">Open menu</string>
+    <string name="navigation_drawer_close">Close menu</string>
+    <string name="app_desc">File compression and conversion!</string>
+    <string name="action_settings">Logout</string>
+
+    <!-- Buttons -->
+    <string name="btnAgregaFich">Add file</string>
+
+    <!-- Menu names -->
+    <string name="menu_zip">ZIP</string>
+    <string name="menu_pdf">PDF</string>
+    <string name="menu_xml">XML</string>
+    <string name="menu_fileDownload">Download files</string>
+</resources>

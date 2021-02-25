@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         app:cardBackgroundColor="@color/lynxWhite"
         app:cardCornerRadius="40dp"
-        android:layout_margin="15p"
+        android:layout_margin="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
